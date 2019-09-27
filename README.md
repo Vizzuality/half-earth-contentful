@@ -10,7 +10,7 @@
 ## Set it up
 
 * clone the repo
-* fill in the values on the `.env` file
+* fill in the values on the `.env` file (see needed values on `.env.sample`)
 * Then run it!
 
 `ruby import_data.rb`

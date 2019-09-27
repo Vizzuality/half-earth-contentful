@@ -8,7 +8,7 @@ gemfile do
   gem 'contentful'
   gem 'contentful-management'
   gem 'csv'
-  gem 'byebug'
+  #gem 'byebug'
 end
 
 Dotenv.load
