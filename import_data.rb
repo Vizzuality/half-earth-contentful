@@ -6,7 +6,7 @@ gemfile do
   source 'https://rubygems.org'
   gem 'dotenv'
   gem 'contentful'
-  gem 'contentful/management'
+  gem 'contentful-management'
   gem 'csv'
   gem 'byebug'
 end
