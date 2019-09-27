@@ -28,7 +28,6 @@ fetch_client = Contentful::Client.new(
   space: space_id,  # This is the space ID. A space is like a project folder in Contentful terms
   access_token: api_key  # This is the access token for this space. Normally you get both ID and the token in the Contentful web app
 )
-return
 update_client = Contentful::Management::Client.new(update_token)
 
 
